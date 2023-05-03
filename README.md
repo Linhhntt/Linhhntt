@@ -1,6 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
+</div>
 
 <!--
+### Hi there 👋
 **linhnnt/linhnnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

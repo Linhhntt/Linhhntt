@@ -18,8 +18,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
 </div>
 
+<h2 align="center">Hi 👋, Please call me Linh</h2>
+<h3 align="center">In the past, I usually used Gitlab instead. From now, I try to build my Github Pages</h3>
+
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thi-thuy-linh-nguyen-5294431a0/" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:linhnguyen.tt98@gmail.com)" alt="Gmail Badge"/>
 </div>
@@ -31,6 +34,10 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://user-images.githubusercontent.com/79694464/169041291-1e3dc373-9b30-4363-a005-11fc72b02549.png" alt="my banner">
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clientcli&label=Profile%20views&color=0e75b6&style=flat" alt="clientcli" /> </p>
+
+
 
 ## 📋 Languages
 

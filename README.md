@@ -68,16 +68,6 @@ Currently, I’m a **Junior Researcher** at the **University of Trento (Italy)**
 
 ---
 
-### ✉️ Connect with Me
-
-<p align="center">
-  <a href="mailto:linhntt.unitn@gmail.com"><img src="https://img.shields.io/badge/Email-linhntt.unitn%40gmail.com-red?style=flat-square&logo=gmail"></a> ·
-  <a href="https://www.linkedin.com/in/thi-thuy-linh-nguyen-5294431a0/"><img src="https://img.shields.io/badge/LinkedIn-linhnntt-blue?style=flat-square&logo=linkedin"></a> ·
-  <a href="https://github.com/clientcli"><img src="https://img.shields.io/badge/GitHub-clientcli-black?style=flat-square&logo=github"></a>
-</p>
-
----
-
 <div align="center">
   <sub>⭐ Designed for <b>Research & Engineering</b> — built with Markdown and ❤️</sub>
 </div>

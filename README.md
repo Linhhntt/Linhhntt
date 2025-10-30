@@ -46,16 +46,16 @@ Currently, I’m a **Junior Researcher** at the **University of Trento (Italy)**
 `Python` · `Golang` · `Kotlin` · `Java` · `Swift` · `C/C++` · `Matlab`
 
 **Frameworks & Tools**  
- `Anaconda` · `JWT` · `Docker` · `Kubernetes` · `eBPF` · `Sysdig` · `AppArmor`
+ `Anaconda` · `JWT` · `Docker` · `Kubernetes` · `eBPF` · `Sysdig` · `AppArmor` · `SpringBoot`
 
 **Databases & Brokers**  
 `Postgres` · `Redis` · `MongoDB` · `Kafka` · `RabbitMQ` · `Mosquitto`
 
 **Cloud & DevOps**  
-`AWS` · `Azure` · `Firebase` · `Nginx` · `Jenkins` 
+`AWS` · `Gitlab CI/CD` · `Nginx` · `Jenkins` 
 
 **Monitoring & Testing**  
-`ELK Stack` · `JMeter` · `Postman` · `strace`
+`ELK Stack` · `Grafana` · `JMeter` · `Postman` · `strace`
 
 ---
 

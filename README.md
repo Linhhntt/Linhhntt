@@ -62,8 +62,8 @@ Currently, I’m a **Junior Researcher** at the **University of Trento (Italy)**
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clientcli&show_icons=true&theme=transparent&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clientcli&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Linhhntt&show_icons=true&theme=transparent&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhhntt&layout=compact&theme=transparent" height="150" />
 </p>
 
 ---
